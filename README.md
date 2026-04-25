@@ -1,6 +1,6 @@
 # Accredian Enterprise — Clone Assignment
 
-Live demo: _[Add your Vercel URL here after deploying]_
+Live demo:(https://accredian-enterprise-jade.vercel.app)
 
 ---
 
@@ -14,7 +14,7 @@ Live demo: _[Add your Vercel URL here after deploying]_
 
 ```bash
 # 1. Clone or download this repository
-git clone https://github.com/YOUR_USERNAME/accredian-enterprise.git
+git clone https://github.com/Akanksha-0628/accredian-enterprise.git
 cd accredian-enterprise
 
 # 2. Install dependencies
